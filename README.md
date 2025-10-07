@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello! 👋 I'm Guilherme Sá (GS1-HUB)
 
-<!--
-**GS1-Hub/GS1-HUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student currently enrolled in the **CTESP Programming of Information Systems** program.  
+Right now, I'm working on a university project called **Vortex App**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Passionate about software development and continuous learning  
+- Experienced in backend and frontend development  
+- Enjoy collaborating on projects and exploring new technologies  
+
+---
+
+## Technologies & Tools
+
+- Programming Languages: C, C#, HTML, CSS, PHP, JavaScript, Java  
+- Frameworks: Yii2, Symfony, Bootstrap  
+- APIs: RESTful API development  
+- Databases: SQL, Mysql
+- Tools: Git, GitHub, Jira  
+
+---
+
+## Get in Touch
+
+- 📫 Email: [guilhermesa017@gmail.com](mailto:guilhermesa017@gmail.com)  
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀

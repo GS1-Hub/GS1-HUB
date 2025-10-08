@@ -29,4 +29,4 @@ Right now, I'm working on a university project called **Vortex**.
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories and c
+Thanks for visiting my profile! Feel free to explore my repositories

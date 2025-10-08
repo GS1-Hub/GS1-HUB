@@ -25,7 +25,7 @@ Right now, I'm working on a university project called **Vortex**.
 
 ## Get in Touch
 
-- 📫 Email: [guilhermesa017@gmail.com](mailto:guilhermesa017@gmail.com)  
+- 📫 Email: [guilhermesa.cc@outlook.com](mailto:guilhermesa.cc@outlook.com)  
 
 ---
 

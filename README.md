@@ -16,7 +16,7 @@ Right now, I'm working on a university project called **Vortex**.
 ## Technologies & Tools
 
 - 🖥️ Programming Languages: C, C#, HTML, CSS, PHP, JavaScript, Java  
-- 🛠️ Frameworks: Yii2, Symfony, Bootstrap  
+- 🛠️ Frameworks: Yii2, Symfony, Bootstrap, EntityFramework
 - 🔗 APIs: RESTful API development  
 - 🗄️ Databases: SQL  
 - 🧰 Tools: Git, GitHub, Jira  

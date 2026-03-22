@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Guilherme Sá (GS1-HUB)
 
 I'm a student currently enrolled in the **CTESP Programming of Information Systems** program.  
-Right now, I'm on intership doing a project on C# -> Blazor.
+I'm currently doing an internship where I'm working on a project using C# and Blazor.
 
 ---
 

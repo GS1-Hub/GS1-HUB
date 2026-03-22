@@ -16,7 +16,7 @@ I'm currently doing an internship where I'm working on a project using C# and Bl
 ## Technologies & Tools
 
 - 🖥️ Programming Languages: C, C#, HTML, CSS, PHP, JavaScript, Java, Visual Basic
-- 🛠️ Frameworks: Yii2, Symfony, MAUI,  Bootstrap, EntityFramework
+- 🛠️ Frameworks: Yii2, Symfony, MAUI,  Bootstrap, EntityFramework, Blazor, MAUI
 - 🔗 APIs: RESTful API development  
 - 🗄️ Databases: SQL  
 - 🧰 Tools: Git, GitHub, Jira, Swagger 

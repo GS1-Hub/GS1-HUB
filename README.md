@@ -25,7 +25,7 @@ I'm currently doing an internship where I'm working on a project using C# and Bl
 
 ## Get in Touch
 
-- 📫 Email: [guilhermesa.cc@outlook.com](mailto:guilhermesa017@gmail.com)  
+- 📫 Email: [guilhermesa017@gmail.com](mailto:guilhermesa017@gmail.com)  
 
 ---
 

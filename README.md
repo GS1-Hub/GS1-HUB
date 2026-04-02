@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Guilherme Sá (GS1-HUB)
 
 I'm a student currently enrolled in the **CTESP Programming of Information Systems** program.  
-I'm currently doing an internship where I'm working on a project using C# and MAUI/Blazor hibrid app, and working at home on a project about Product Stock in VB.NET.
+I'm currently doing an internship where I'm working on a project using C# and MAUI/Blazor hibrid app.
 
 ---
 

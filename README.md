@@ -1,9 +1,7 @@
 # Hello! 👋 I'm Guilherme Sá (GS1-HUB)
 
 I'm a student currently enrolled in the **TESP Programming of Information Systems** program.  
-I'm currently doing an internship where I'm working on a project using C# and MAUI/Blazor hibrid app.
-On my intership I am helping to a improve company app on Visual Basic
-
+I'm currently doing an internship where I work on a C# project using .NET MAUI/Blazor Hybrid and help improve the company's Visual Basic application.
 ---
 
 ## About Me

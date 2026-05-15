@@ -2,6 +2,7 @@
 
 I'm a student currently enrolled in the **TESP Programming of Information Systems** program.  
 I'm currently doing an internship where I'm working on a project using C# and MAUI/Blazor hibrid app.
+On my intership I am helping to a improve company app on Visual Basic
 
 ---
 

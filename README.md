@@ -15,7 +15,7 @@ I'm currently doing an internship where I work on a C# project using .NET MAUI/B
 ## Technologies & Tools
 
 - 🖥️ Programming Languages: C, C#, HTML, CSS, PHP, JavaScript, Java, Visual Basic
-- 🛠️ Frameworks: Yii2, Symfony, MAUI,  Bootstrap, EntityFramework, Blazor, MAUI
+- 🛠️ Frameworks: Yii2, Symfony, Bootstrap, EntityFramework, Blazor, MAUI
 - 🔗 APIs: RESTful API development  
 - 🗄️ Databases: SQL  
 - 🧰 Tools: Git, GitHub, Jira, Swagger 

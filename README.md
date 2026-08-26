@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Guilherme Sá (GS1-HUB)
 
-I'm a **Software Developer** currently working as a at **Decimal**.
+I'm a **Software Developer** currently working at **Decimal**.
 ---
 
 ## About Me

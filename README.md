@@ -8,8 +8,6 @@ I'm a **Software Developer** currently working at **Decimal**.
 * 💻 Software Developer passionate about building and improving applications
 * 🚀 Currently working professionally in software development
 * 📚 Always learning new technologies and improving my skills
-* 🤝 Interested in collaborating on interesting software projects
-
 ---
 
 ## Technologies & Tools

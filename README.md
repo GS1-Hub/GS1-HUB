@@ -1,6 +1,7 @@
 # Hello! 👋 I'm Guilherme Sá (GS1-HUB)
 
 I'm a **Software Developer** who has completed the **TESP Programming of Information Systems** program.
+
 I'm currently working as a **Software Developer at Decimal**.
 
 ---
